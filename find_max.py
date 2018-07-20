@@ -2,7 +2,7 @@
 def main():
     pass
     l=map(int,input().split())
-    k=int(0)
+    k=0
     for i in l:
         if (k<i):
             k=i
